@@ -6,5 +6,6 @@ package com.lijing.test;
 public class HelloWord {
     public static void main(String[] args) {
         System.out.println("HellWord!");
+        System.out.println("==============");
     }
 }
